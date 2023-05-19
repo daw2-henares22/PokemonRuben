@@ -4,7 +4,7 @@ import { perfil } from '../componentes/perfil'
 import { user } from '../componentes/user'
 
 export const Home = {
-  template: '<h1>Home</h1>',
+  template: `<h1>Homeh</h1>`,
   script: async () => {
     console.log('Vista home cargada')
     // Conexion con la base de datos supabase
